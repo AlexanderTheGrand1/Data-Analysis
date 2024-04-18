@@ -67,6 +67,6 @@ The dataset includes the following columns with their respective data types:
 32. `reservation_status_date`: Date
 
 ## Accessing the Dataset
-You can access the complete dataset in the [hotel_revenue_historical_full.xlsx](https://github.com/IsraelVow/Hotel-Revenue-Analysis/raw/main/hotel_revenue_historical_full.xlsx) file.
+You can access the complete dataset in the [hotel_revenue_historical_full.xlsx](https://github.com/AlexanderTheGrand1/Data-Analysis/blob/main/SQL/02HotelRevenuePowerBI/hotel_revenue_historical_full.xlsx) file.
 
 Note: The dataset has undergone basic processing, such as replacing null values with random average values, removing duplicated values, and converting necessary data types.
